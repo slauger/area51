@@ -1,8 +1,7 @@
-global:
-  # replacer: url
-  image: quay.io/slauger/helmet:v1.0.0
-  aa: quay.io/slauger/openshift-sdk:2.0.0
-  bb: quay.io/slauger/openshift-sdk:2.0.0
-  cc: quay.io/slauger/openshift-sdk:2.0.0
-  dd: quay.io/slauger/openshift-sdk:2.0.0
-  ee: quay.io/slauger/openshift-sdk:2.0.0
+Z2xvYmFsOgogICMgcmVwbGFjZXI6IHVybAogIGltYWdlOiBxdWF5LmlvL3Ns
+YXVnZXIvaGVsbWV0OnYxLjAuMAogIGFhOiBxdWF5LmlvL3NsYXVnZXIvb3Bl
+bnNoaWZ0LXNkazoyLjAuMAogIGJiOiBxdWF5LmlvL3NsYXVnZXIvb3BlbnNo
+aWZ0LXNkazoyLjAuMAogIGNjOiBxdWF5LmlvL3NsYXVnZXIvb3BlbnNoaWZ0
+LXNkazoyLjAuMAogIGRkOiBxdWF5LmlvL3NsYXVnZXIvb3BlbnNoaWZ0LXNk
+azoyLjAuMAogIGVlOiBxdWF5LmlvL3NsYXVnZXIvb3BlbnNoaWZ0LXNkazoy
+LjAuMAo=
