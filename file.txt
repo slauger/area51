@@ -1,9 +1,8 @@
-WjJ4dlltRnNPZ29nSUNNZ2NtVndiR0ZqWlhJNklIVnliQW9nSUdsdFlXZGxP
-aUJ4ZFdGNUxtbHZMM05zCllYVm5aWEl2YUdWc2JXVjBPbll4TGpBdU1Bb2dJ
-R0ZoT2lCeGRXRjVMbWx2TDNOc1lYVm5aWEl2YjNCbApibk5vYVdaMExYTmth
-em95TGpBdU1Bb2dJR0ppT2lCeGRXRjVMbWx2TDNOc1lYVm5aWEl2YjNCbGJu
-Tm8KYVdaMExYTmthem95TGpBdU1Bb2dJR05qT2lCeGRXRjVMbWx2TDNOc1lY
-Vm5aWEl2YjNCbGJuTm9hV1owCkxYTmthem95TGpBdU1Bb2dJR1JrT2lCeGRX
-RjVMbWx2TDNOc1lYVm5aWEl2YjNCbGJuTm9hV1owTFhOawphem95TGpBdU1B
-b2dJR1ZsT2lCeGRXRjVMbWx2TDNOc1lYVm5aWEl2YjNCbGJuTm9hV1owTFhO
-a2F6b3kKTGpBdU1Bbz0K
+global:
+  # replacer: url
+  image: quay.io/slauger/helmet:v1.0.0
+  aa: quay.io/slauger/openshift-sdk@sha256:c0627489340d98226f0976e5fc80baf2ede3bdffb099461ed5f397ba5b2bff32
+  bb: quay.io/slauger/openshift-sdk
+  cc: quay.io/slauger/openshift-sdk:for
+  dd: quay.io/slauger/openshift-sdk:1.0.0
+  ee: quay.io/slauger/openshift-sdk:1.0.0@sha256:c0627489340d98226f0976e5fc80baf2ede3bdffb099461ed5f397ba5b2bff32
