@@ -1,6 +1,6 @@
 global:
   # replacer: url
-  image: quay.io/slauger/helmet:v1.0.0
+  image: quay.io/slauger/helmet:v3.0.5
   aa: quay.io/slauger/openshift-sdk@sha256:c0627489340d98226f0976e5fc80baf2ede3bdffb099461ed5f397ba5b2bff32
   bb: quay.io/slauger/openshift-sdk
   cc: quay.io/slauger/openshift-sdk:for
