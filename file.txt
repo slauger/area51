@@ -9,3 +9,4 @@ global:
   cc: quay.io/slauger/openshift-sdk:v2.0.6
   dd: quay.io/slauger/openshift-sdk:v2.0.6
   ee: quay.io/slauger/openshift-sdk:v2.0.6
+# ☠☠☠
