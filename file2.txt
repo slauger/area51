@@ -1,8 +1,8 @@
 global:
   # replacer: url
   image: quay.io/slauger/helmet:v3.0.5
-  aa: quay.io/slauger/openshift-sdk:v2.0.7
-  bb: quay.io/slauger/openshift-sdk:v2.0.7
-  cc: quay.io/slauger/openshift-sdk:v2.0.7
-  dd: quay.io/slauger/openshift-sdk:v2.0.7
-  ee: quay.io/slauger/openshift-sdk:v2.0.7
+  aa: quay.io/slauger/openshift-sdk:v2.0.9
+  bb: quay.io/slauger/openshift-sdk:v2.0.9
+  cc: quay.io/slauger/openshift-sdk:v2.0.9
+  dd: quay.io/slauger/openshift-sdk:v2.0.9
+  ee: quay.io/slauger/openshift-sdk:v2.0.9
