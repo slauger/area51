@@ -3,7 +3,7 @@
 
 global:
   # replacer: url
-  image: "quay.io/slauger/helmet:v3.0.10" # do not replace me
+  image: "quay.io/slauger/helmet:v3.0.10@sha256:83c0e63f5efb64cba26be647e93bf036b8d88b774f0726936c1b956424b1a123" # do not replace me
   aa: quay.io/slauger/openshift-sdk:v2.0.11
   bb: quay.io/slauger/openshift-sdk:v2.0.11
   cc: quay.io/slauger/openshift-sdk:v2.0.11
